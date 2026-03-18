@@ -59,8 +59,7 @@ uvicorn security_module:app --reload
 
 text
 http://127.0.0.1:8000/docs
-https://./images/1.jpg
-
+![صورة 1](images/1.jpg)
 📘 Swagger UI
 يوفر Swagger واجهة تفاعلية لاختبار API بسهولة.
 
@@ -75,7 +74,7 @@ Swagger UI
 
 مشاهدة النتائج فوراً
 
-![صورة 1](images/1.jpg)
+![صورة 2](images/2.jpg)
 ⚙️ الوظائف الرئيسية
 🔹 5.2 توليد كلمة مرور
 GET /generate-password
@@ -92,8 +91,7 @@ text
 
 رموز
 
-https://./images/3.jpg
-
+![صورة 3](images/3.jpg)
 🔹 5.3 توليد Passphrase
 GET /generate-passphrase
 
@@ -103,8 +101,7 @@ GET /generate-passphrase
 
 text
 "click shield voice iron network process safe"
-https://./images/4.jpg
-
+![صورة 4](images/4.jpg)
 🔹 5.4 التحقق من تسريب كلمة المرور
 POST /check-breach
 
@@ -112,8 +109,7 @@ POST /check-breach
 
 ✔️ يتحقق هل كلمة المرور تم تسريبها سابقاً
 
-https://./images/5.jpg
-
+![صورة 5](images/5.jpg)
 🔹 5.5 توليد 2FA + QR Code
 GET /generate-2fa
 
@@ -127,15 +123,13 @@ QR Code (Base64)
 
 URI
 
-https://./images/6.jpg
-
+![صورة 61](images/6.jpg)
 🔹 5.6 عرض QR Code مباشرة
 GET /qr-image
 
 ✔️ يعرض QR Code كصورة مباشرة
 
-https://./images/7.jpg
-
+![صورة 7](images/7.jpg)
 📱 نظام المصادقة الثنائية (2FA)
 تم تطبيق نظام 2FA باستخدام:
 
