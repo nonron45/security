@@ -75,8 +75,7 @@ Swagger UI
 
 مشاهدة النتائج فوراً
 
-https://./images/2.jpg
-
+![صورة 1](images/1.jpg)
 ⚙️ الوظائف الرئيسية
 🔹 5.2 توليد كلمة مرور
 GET /generate-password
